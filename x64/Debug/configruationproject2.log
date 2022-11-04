@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\configproject2\configproject2\configruationproject2\main.cpp(183,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\configproject2\configproject2\configruationproject2\main.cpp(37): warning C4715: 'rule': not all control paths return a value
+pugixml.lib(pugixml.obj) : warning LNK4099: PDB 'pugixml.pdb' was not found with 'pugixml.lib(pugixml.obj)' or at 'D:\configproject2\configproject2\configruationproject2\x64\Debug\pugixml.pdb'; linking object as if no debug info
+  configruationproject2.vcxproj -> D:\configproject2\configproject2\configruationproject2\x64\Debug\configruationproject2.exe

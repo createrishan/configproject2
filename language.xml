@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<Welcome lang="eng">Welcome to Rock, Paper and Scissors Game</Welcome>
+	<Welcome lang="arb">mrhban bikum fi laebat Rock، Paper and Scissors</Welcome>
+	<Welcome lang="ind">rok, pepar aur kainchee gem mein aapaka svaagat hai </Welcome>
+	<Welcome></Welcome>
+	<Welcome></Welcome>
+
+	<Note lang="eng">Note r - Rock, p - Paper, s - Scissors</Note>
+	<Note lang="arb">mulahazat s  ruk f wara  q muqasun</Note>
+	<Note lang="Ind">not aar - rok, pee - pepar, es - kainchee</Note>
+	<Note></Note>
+	<Note></Note>
+
+	<Enter lang="eng">Enter</Enter>
+	<Enter lang="arb">yadkhul</Enter>
+	<Enter lang="ind">pravesh karana</Enter>
+	<Enter></Enter>
+	<Enter></Enter>
+
+	<won lang="eng">won</won>
+	<won lang="arb">faz - rabih</won>
+	<won lang="ind">jeet liya</won>
+	<won></won>
+	<won></won>
+
+	<loose lang="eng"> loose </loose>
+	<loose lang="arb"> murtakhi </loose>
+	<loose lang="ind">dheela</loose>
+	<loose></loose>
+	<loose></loose>
+	
+	
+	<tie lang="eng"> Tie </tie>
+	<tie lang="arb"> rabtat eunuq </tie>
+	<tie lang="ind">baandhana</tie>
+	<tie></tie>
+	<tie></tie>
+	
+	
+	<playagain lang="eng">playagain</playagain>
+	<playagain lang="arb">aleabu maratan 'ukhraa</playagain>
+	<playagain lang="ind">phir se chaaloo karen</playagain>
+	<playagain></playagain>
+	<playagain></playagain>
+
+
+	<exit lang="eng"> exit </exit>
+	<exit lang="arb"> khuruj </exit>
+	<exit lang="ind">baahar nikalana</exit>
+	<exit></exit>
+	<exit></exit>
+
+	<rock lang="eng"> R:Rock </rock>
+	<rock lang="arb"> R:sakhar </rock>
+	<rock lang="ind">R: chattaan </rock>
+	<rock></rock>
+	<rock></rock>
+
+
+	<paper lang="eng"> p:Paper </paper>
+	<paper lang="arb"> p:waraq </paper>
+	<paper lang="ind"> p:kaagaz </paper>
+	<paper></paper>
+	<paper></paper>
+
+
+	<scissor lang="eng"> s:Scissor </scissor>
+	<scissor lang="arb"> s:muqasun </scissor>
+	<scissor lang="ind"> s:kainchee </scissor>
+</language>
